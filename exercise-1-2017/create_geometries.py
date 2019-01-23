@@ -7,10 +7,6 @@ Usage:
 Author:
     Simone Claridge - 01.22.2019
 '''
-
-
-
-
 # Import necessary geometric objects from shapely module
 from shapely.geometry import Point, LineString, Polygon
 
